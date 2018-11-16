@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104045318259",
+    "firebase_url": "https://simpleloginapp-5d4bd.firebaseio.com",
+    "project_id": "simpleloginapp-5d4bd",
+    "storage_bucket": "simpleloginapp-5d4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104045318259:android:107ec5ce316512ab",
+        "android_client_info": {
+          "package_name": "com.example.simpleloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104045318259-r9i36glri1ksvj4ibrsn913d50vb4q4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA060WPZmaZH8he9uPsfy9l9jqGib2joC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
